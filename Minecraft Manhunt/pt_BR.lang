@@ -1,0 +1,69 @@
+pack.description=Jogue com os seus amigos, e lute com os speedrunners que tentam completar o jogo-- daqueles que tentam impedir!
+
+item.mh:start_game.name=§aComeçar Corrida Normal §7[Punch]§r
+item.mh:start_juggernaut.name=§cComeçar Modo Juggernaut §7[Punch]§r
+item.mh:options.name=§7Opções §8[Punch]§r
+item.mh:translator.name=§4Tradutor §7[Punch]§r
+item.mh:select_self.name=§6Selecionar a Si §7[Punch]§r
+item.mh:punch_speedrunner.name=§6Bata para Selecionar §7[Punch]§r
+item.mh:random_speedrunner.name=§6Jogador Aleatório §7[Punch]§r
+item.mh:back_button.name=§7Voltar §8[Punch]§r
+item.mh:difficulty_easy.name=§cGame Dificuldade: Fácil §7[Punch]§r
+item.mh:difficulty_hard.name=§cGame Dificuldade: Dificíl §7[Punch]§r
+item.mh:difficulty_normal.name=§cGame Dificuldade: Normal §7[Punch]§r
+item.mh:difficulty_peaceful.name=§cGame Dificuldade: Pacífico §7[Punch]§r
+item.mh:headstart_off.name=§6Headstart Desabilitado §7[Punch]§r
+item.mh:headstart_on.name=§6Headstart Habilitado §7[Punch]§r
+item.mh:disable_timer.name=§9Temporizador Desabilitado §7[Punch]§r
+item.mh:set_timer.name=§9Temporizador Habilitado §7[Punch]§r
+item.mh:keep_inventory_off.name=§bManter Inventário Desabilitado §7[Punch]§r
+item.mh:keep_inventory_on.name=§bManter Inventário Habilitado §7[Punch]§r
+item.mh:grace_period_off.name=§ePeríodo da Graça Desabilitado §7[Punch]§r
+item.mh:grace_period_on.name=§ePeríodo da Graça Habilitado §7[Punch]§r
+item.mh:reset.name=§7Restaurar Padrões §8[Punch]§r
+
+game.start.title=§7Minecraft §cManhunt
+game.start.begin=Manhunt começa em %s
+game.start.hunters=Liberando caçadores em %s
+game.start.message=Começar!
+game.start.hunter_release=Caçadores liberados!
+game.start.speedrunner_release=Speedrunner liberado!
+game.start.tip.juggernaut=Neste modo, caçadores vão ter Armadura de Diamante completa e uma Espada de Diamante.
+game.start.tip1=Seu objetivo é finalizar o Minecraft.
+game.start.tip2=Seu objetivo é finalizar o Minecraft dentro do limite de tempo.
+game.start.tip3=Seu objetivo é pegar e matar o speedrunner.
+game.start.tip4=Vai ser dado para você um headstart de 15 segundos.
+game.start.tip5=Todos os caçadores vão receber um navegador que vão o guiar para o speedrunner.
+game.start.tip6=Você irá perder se você morrer por qualquer motivo!
+game.start.tip7=Você irá perder se o speedrunner derrotar o Dragão do Ender e terminar o jogo!
+game.start.tip8=Por último, o coisa mais importânte é aproveitar!
+game.death.speedrunner=Speedrunner morreu, os §ccaçadores§r venceram o jogo!
+
+options.reset.fail=Opções já estão colocadas no padrão!
+options.reset.success=Opções colocadas no padrão.
+options.difficulty=Dificuldade do jogo colocada em '%s'.
+options.difficulty.peaceful=Note que Blazes, que dropam Vara de Blaze, não vão aparecer nesta dificuldade.
+options.timer.enabled=Limite de tempo de 1 hora habilitado.
+options.timer.disabled=Limite de tempo desabilitado.
+options.keep_inventory.enabled=Manter Inventário habilitado.
+options.keep_inventory.disabled=Manter Inventário desabilitado.
+options.grace_period.enabled=Período da Graça habilitado.
+options.grace_period.disabled=Período da Graça desabilitado.
+options.headstart.enabled=Headstart habilitado.
+options.headstart.disabled=Headstart desabilitado.
+
+speedrunner.challenge_complete=Speedrunner completou o desafio! Parabéns!
+speedrunner.complete_actionbar=§7Desafio completo, por favor crie um §6mundo diferente§7!
+speedrunner.generic.grace_period=Você não pode atacar o speedrunner enquanto o período da graça ainda está ativo!
+speedrunner.generic.no_player=Nenhum Speedrunner Selecionado
+speedrunner.punch.info=Bata no jogador que você quer que seja o speedrunner enquanto segura este item!
+speedrunner.punch.self=Você foi selecionado como speedrunner!
+speedrunner.punch.selected=Jogador selecionado!
+speedrunner.random.no_player=Não há sentido em encontrar um jogador aleatório quando só tem um jogador!
+speedrunner.random.success=Jogador aleatório pego com sucesso!
+speedrunner.self.error=Você já é o speedrunner!
+speedrunner.self.success=Selecionado a si mesmo como speedrunner!
+
+# Do not modify anything below this:
+entity.mh:world_spawn.name=[World Spawn]
+locale.translator=DanyCraftBR (Brazilian Portuguese)
