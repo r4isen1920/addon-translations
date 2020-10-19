@@ -1,0 +1,28 @@
+﻿action.waypoint.link_compass=Conectar Bússola
+
+entity.wp:waypoint.name=[Marcador]
+entity.wp:death_mark.name=[Marca de Morte]
+
+item.spawn_egg.entity.wp:waypoint.name=Colocador de Marcação
+item.spawn_egg.entity.wp:death_mark.name=Marca de Morte
+
+item.wp:waypoint_compass_black.name=Bússola do Void
+item.wp:waypoint_compass_blue.name=Bússola de Marcação
+item.wp:waypoint_compass_brown.name=Bússola de Marcação
+item.wp:waypoint_compass_cyan.name=Bússola de Marcação
+item.wp:waypoint_compass_gray.name=Bússola de Marcação
+item.wp:waypoint_compass_green.name=Bússola de Marcação
+item.wp:waypoint_compass_light_blue.name=Bússola de Marcação
+item.wp:waypoint_compass_light_gray.name=Bússola de Marcação
+item.wp:waypoint_compass_lime.name=Bússola de Marcação
+item.wp:waypoint_compass_magenta.name=Bússola de Marcação
+item.wp:waypoint_compass_orange.name=Bússola de Marcação
+item.wp:waypoint_compass_pink.name=Bússola de Marcação
+item.wp:waypoint_compass_purple.name=Bússola de Marcação
+item.wp:waypoint_compass_red.name=Bússola de Marcação
+item.wp:waypoint_compass_white.name=Bússola de Marcação
+item.wp:waypoint_compass_yellow.name=Bússola de Marcação
+
+waypoint.compass_unlink=§7Bússola de marcação desconectada§r
+waypoint.teleport.success=§7Viagem para marcador com sucesso§r
+waypoint.teleport.cancelled=§7Viagem para marcador cancelada§r
